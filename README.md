@@ -7,10 +7,10 @@ For this project, I decided to design my own mini safe using Onshape. I came up 
 I wanted to create something that would actually work, not just a box with a lid. My goal was to design a safe with a door that could open and close, along with a rotating dial. I also wanted to learn more about CAD design and how different mechanical parts could be connected to move together.
 
 
-I started by creating the main body of the safe in Onshape. I wanted it to be large enough to store my dollar bills while still being small enough to fit on a desk or shelf. I worked on the dimensions of the box and made sure there was enough space for the door and other parts. IT took me soooooo long but i finished. Btw this was liek the easiest part, also here are some images: 
+I started by creating the main body of the safe in Onshape. I wanted it to be large enough to store my dollar bills while still being small enough to fit on a desk or shelf. I worked on the dimensions of the box and made sure there was enough space for the door and other parts. IT took me soooooo long but i finished. Btw this was liek the easiest part, also here are some Images: 
 
 
-![This is first image](images/image1.png)
+![This is first image](Images/image1.png)
 
 
 I then started working on the hinge. I wanted the door to open like a real safe door instead of having to remove it completely. I designed the hinge using circular parts and checked their measurements to make sure they would line up properly. It took me a long tome to make all three hinges, but I was able to do it. I added an blue axel to connect them. This diagram would be used for mechanical assembly part. 
@@ -19,11 +19,13 @@ After, I started working on the door, and to do that I first used D comamand to 
 
 Basically I did: Sketch-Extrude- Then filelt for curved edges. 
 
-Here are some images of hinges, doors, and everythign together. (to do some of the tasks, I hid the parts, then added them back in):
+Here are some Images of hinges, doors, and everythign together. (to do some of the tasks, I hid the parts, then added them back in):
 
-![Second image!](images/image2.png)
-![This is third image](images/image3.png)
-![This is fourth image](images/image4.png)
+![Second image!](Images/image2.png)
+
+![This is third image](Images/image3.png)
+
+![This is fourth image](Images/image4.png)
 
 
 Next, I worked ont he dial. It took me soooooo long. I first created two sketches(both cirlces-one bigger, and one smaller)-  then.I extruded them both:
@@ -32,8 +34,9 @@ I extrueded the first oen into a whole object to be spun around. The second smal
 
 Then I created a new sketch with a tiny rectangle which I used whole extrude. I also used filelt for the dial to make it look better. 
 
-![This is fifth image](images/image5.png)
-![This is sixth image](images/image6.png)
+![This is fifth image](Images/image5.png)
+
+![This is sixth image](Images/image6.png)
 
 Lastly, I decided I wanted to create an visual diagram of the 3D model. To do that, I used Mechanical Assembly option on the Onshape area(basically allows me to move the parts, and clearly see how they worked)
 
@@ -45,11 +48,11 @@ Here is the problem that occured with that: The door went up, and ruined the mod
 
 I fixed this by moving th onset for z diagram to -10, which moved thehindge downwards but still connected to hinge. This showed that the hinge could move. 
 
-I then used the same command with the dial and hole in door. This allowed the dial to move and unlock the door. Here are the reaming images: 
+I then used the same command with the dial and hole in door. This allowed the dial to move and unlock the door. Here are the reaming Images: 
 
-![This is seventh image](images/image7.png)
-![This is eight image](images/image8.png)
-![This is ninth image](images/image9.png)
+![This is seventh image](Images/image7.png)
+![This is eight image](Images/image8.png)
+![This is ninth image](Images/image9.png)
 
 Here are the files of the model: 
 
