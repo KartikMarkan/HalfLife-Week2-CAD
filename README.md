@@ -51,13 +51,16 @@ I fixed this by moving th onset for z diagram to -10, which moved thehindge down
 I then used the same command with the dial and hole in door. This allowed the dial to move and unlock the door. Here are the reaming Images: 
 
 ![This is seventh image](Images/image7.png)
+
 ![This is eight image](Images/image8.png)
+
 ![This is ninth image](Images/image9.png)
 
 Here are the files of the model: 
 
 [Download the STEP file for project](Files/FilePart.step)
 
+[Download the STL file for project](Files/FilePart.stl)
 
 Notes: I did not add a BOM, I don't need one. I will update this prject in the future, but it will not update the hours logged(just in my free time). 
 
